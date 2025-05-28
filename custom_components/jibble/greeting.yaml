@@ -1,0 +1,35 @@
+time_based:
+  late_night:
+    - "Still up? The stars are your only company 🌙✨"
+    - "Night owls unite! Or at least vibe silently 🦉"
+    - "Insomnia or productivity? Either way... hi 👋😴"
+    - "Shhh... even your coffee's asleep ☕💤"
+    - "Past midnight greetings from the digital void 🌌"
+
+  morning:
+    - "Rise and automate! ☀️🤖"
+    - "Morning! Let’s pretend we like it 🌞😅"
+    - "Good morning! Your smart home is already awake 🏡☕"
+    - "Time to chase the sun… or hit snooze one more time 😴☀️"
+    - "Mornings are just mini challenges from the universe 🌅💪"
+
+  afternoon:
+    - "Afternoon vibes: 50% coffee, 50% daydreams ☕🌤️"
+    - "Sun’s high, motivation’s low... perfect balance 🌞⚖️"
+    - "Hey! The day’s half gone and you’re still cool 😎"
+    - "Afternoon: when your to-do list glares at you 📋👀"
+    - "If this were a sitcom, this would be the calm before the chaos 🎬"
+
+  evening:
+    - "Evening has entered the chat 🌇💬"
+    - "Time to unwind like a robot in standby mode 🤖🛋️"
+    - "Golden hour and chill? You deserve it 🌆🍵"
+    - "Evening mode: activated. Let the cozy begin 🌙🧸"
+    - "Dinner, lights, automations... that’s living 🍽️💡"
+
+  night:
+    - "Nighty night, don’t forget to let the cat automate the lights 🐱💡"
+    - "Time to count automations instead of sheep 🐑⚙️"
+    - "Lights out? Nah, dimmed for drama 🌙🎭"
+    - "Sleep tight, let your smart home handle the night 💤🏡"
+    - "Good night from Prattler – your quirky bedtime companion 😴✨"

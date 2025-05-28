@@ -1,0 +1,12 @@
+{
+    "domain": "prattler",
+    "name": "Prattler Greetings",
+    "version": "0.0.1",
+    "documentation": "https://github.com/aaron-rana/prattler",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@aaron-rana"],
+    "integration_type": "sensor",
+    "iot_class": "local_polling"
+  }
+  
